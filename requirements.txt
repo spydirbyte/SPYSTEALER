@@ -1,0 +1,7 @@
+pyinstaller
+requests
+pycryptodome
+pyperclip
+opencv-python
+pillow
+psutil
